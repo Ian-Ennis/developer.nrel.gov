@@ -94,7 +94,7 @@ paths:
           for Alternative Fuel Infrastructure Operator, ''AFP'' for Alternative Fuel
           Producer, ''PURCH'' for Alternative Fuel Purchaser, ''MAN'' for Alternative Fuel
           Vehicle (AFV) Manufacturer or Retrofitter, ''MUD'' for Multi-Unit Dwelling,
-          ''TRANS'' for Transit, and ''OTHER'' for Other.'
+          ''TRANS'' for Transit, ''LIDAC'' for Low-Income and Disadvanted Communities, and ''OTHER'' for Other.'
         name: user_type
         required: false
         type: string
